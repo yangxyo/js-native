@@ -1,0 +1,7 @@
+.win {
+  margin-left: 30vw;
+  width: 40vw;
+  height: 35vw;
+  background-color: rgba(228, 154, 165, 0.4);
+  border: 2px solid rgb(228, 154, 165);
+}

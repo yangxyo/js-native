@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "build": "npx webpack --config webpack.config.js",
-    "start": "webpack serve --open"
+    "serve": "webpack serve"
   },
   "devDependencies": {
     "css-loader": "^6.2.0",
@@ -19,7 +19,5 @@
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
   },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "dependencies": {}
 }
